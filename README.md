@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indranil-Seal
-- 👀 I’m interested in Advance Analytics leveraging Data Science
-- 🌱 I started my journey at Aug,2018 and been gaining experience as a Data Scientist ever since. 
+- 👀 I’m interested in Advance Analytics by leveraging Data Science & Artificial Intelligence
+- 🌱 Started off at Aug,2018 as a Data Scientist. 
 - 💞️ I’m looking to collaborate on Machine Learning & Artificial Intelligence.  
 - 📫 Mail me at indranil.seal09@gmail.com | Connect with me on Linkedin : https://www.linkedin.com/in/indranil-seal-913747b7 
 
