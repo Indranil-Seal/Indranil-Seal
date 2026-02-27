@@ -10,7 +10,7 @@
 
 <!-- Typing SVG Animated Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=700&height=60&lines=~8+Years+in+Data+Science+%26+Machine+Learning;Healthcare+%7C+Pharma+%7C+FMCG+%7C+Retail+%7C+Manufacturing;Inference+%7C+Experimentation+%7C+Predictive+Modelling;Turning+Data+into+Business+Impact" alt="Typing SVG Tagline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=700&height=60&lines=Commercial+Experimentation;Predictive+Modelling;Market+Analytics;Data+Science;Business+Analytics;Artificial+Intelligence+%28AI%29;Large+Language+Models+%28LLMs%29;Generative+AI" alt="Typing SVG Tagline"/>
 </p>
 
 ---
