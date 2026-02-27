@@ -181,28 +181,29 @@ Senior Data Scientist with **~8 years** of hands-on experience in statistical in
 
 | Award | Issued By | Year |
 |:---|:---|:---|
-| 🚀 Inspire: Deliver | Suresh Subbarao, Associate Director – Data Science & AI | Dec 2024 |
-| 🚀 Inspire: Deliver | Srinivasa Agarwal, Director – Data Science & AI | Dec 2024 |
-| 🚀 Inspire: Deliver | Zac Turner Cuesta, Senior Principal Data Scientist – Data Science & AI | Dec 2024 |
-| 💡 Inspire: Innovate | Stephanie T. Chen, Senior Director – L2P Advisory, Data Science & AI | Feb 2024 |
-| 🤝 Inspire: Include | Shraddha Rawat, Principal – Machine Learning Program (MLOps) | Dec 2024 |
-| 🚀 Inspire: Deliver | Sumit Mukherjee, Senior Principal – Machine Learning Program (MLOps) | Aug 2024 |
-| 🚀 Inspire: Deliver | Ashwin, Machine Learning Scientist – AI Science & MLOps | Dec 2024 |
+| 🚀 Inspire: Deliver | Sumeet Siddhartha, Associate Director – Data Science & AI | Dec 2025 |
+| 🚀 Inspire: Deliver | Vaidoorya Agarwal, Director – Data Science & AI | Dec 2025 |
+| 💡 Inspire: Innovate | Stephanie T. Chen, Senior Director – US Advisory, Data Science & AI | Feb 2025 |
+| 🚀 Inspire: Deliver | Amit Kumar Gupta, Senior Principal Data Scientist – Data Science & AI | Dec 2024 |
+| 🚀 Inspire: Deliver | Santosh Kumar Swamy | Dec 2024 |
+| 🤝 Inspire: Include | Shaswat Anand, Principal Machine Learning Engineer – MLOps | Dec 2024 |
+| 🚀 Inspire: Deliver | Sumit Mukherjee, Senior Principal Machine Learning Engineer – MLOps | Aug 2024 |
+| 🚀 Inspire: Deliver | Viktor Szabo, Advisor Machine Learning Engineer – US Advisory, Data Science & MLOps | Dec 2023 |
 
 ### 💊 Novartis
 
 | Award | Issued By | Year |
 |:---|:---|:---|
-| ⭐ Star Award | Susan Cassidy, Director – Strategic Initiatives | Nov 2022 |
-| 🌟 Galaxy Team Award — Q3 | Arijit Ghosh, Group Head – MES | Aug 2022 |
-| 🌟 Galaxy Team Award — Q4 | Arijit Ghosh, Group Head – MES | Dec 2021 |
+| ⭐ Star Award 2022 | Susan Cassidy, Director – Strategic Initiatives | Nov 2022 |
+| 🌟 Galaxy Team Award — Q3 2022 | Arijit Ghosh, Group Head – MES | Aug 2022 |
+| 🌟 Galaxy Team Award — Q4 2021 | Arijit Ghosh, Group Head – MES | Dec 2021 |
 
 ### 🏭 ITC Infotech
 
 | Award | Issued By | Year |
 |:---|:---|:---|
 | 👏 Pat on the Back | Suchismita Burman, CHRO | Jul 2021 |
-| 🏅 Moment of Truth Award & Recognition | Sudip Singh, MD & CEO | Jul 2019 |
+| 🏅 Moment of Truth Award & Recognition | Sudip Singh, MD & CEO | Jun 2019 |
 
 ---
 
