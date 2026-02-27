@@ -1,68 +1,44 @@
-<!-- ══════════════════════════════════════════════════ HERO ══ -->
-<!-- GitHub <picture> serves different banner for dark vs light mode -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1B3A6B&height=200&text=INDRANIL%20SEAL&fontSize=56&fontColor=FFFFFF&fontAlignY=47&desc=Senior%20Data%20Scientist%20%7C%20M.Sc.%20in%20Statistics%20%7C%20Bangalore%2C%20India&descAlignY=73&descColor=D4AF37&descSize=17"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EEF2FF,100:DBEAFE&height=200&text=INDRANIL%20SEAL&fontSize=56&fontColor=1E3A5F&fontAlignY=47&desc=Senior%20Data%20Scientist%20%7C%20M.Sc.%20in%20Statistics%20%7C%20Bangalore%2C%20India&descAlignY=73&descColor=B45309&descSize=17" alt="Hero Banner"/>
-</picture>
-</div>
+<!-- Capsule Render Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Indranil%20Seal&fontSize=60&fontColor=e94560&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20M.Sc.%20Statistics&descAlignY=58&descColor=a8b2d8&animation=fadeIn" alt="Header Banner"/>
+</p>
 
-<div align="center"><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=17&pause=3000&color=3B82F6&center=true&vCenter=true&width=820&height=32&lines=Delivering+Enterprise-Grade+Data+Science+%26+Machine+Learning+Solutions;8%2B+Years+%7C+Healthcare+%7C+Pharma+%7C+FMCG+%7C+Retail+%7C+Manufacturing;Commercial+Experimentation+%7C+Predictive+Modelling+%7C+Market+Analytics" alt="Tagline"/>
-</div>
+<!-- Profile View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Indranil-Seal&label=Profile%20Views&color=e94560&style=flat-square" alt="Profile Views"/>
+</p>
 
-<br/>
-
-<!-- ════════════════════════════════════════ KEY METRICS ══ -->
-<div align="center">
-
-![8+ Years Experience](https://img.shields.io/badge/8%2B%20Years%20Experience-3B82F6?style=for-the-badge&logoColor=white)
-![3 Global Enterprises](https://img.shields.io/badge/3%20Global%20Enterprises-14B8A6?style=for-the-badge&logoColor=white)
-![13+ Recognitions](https://img.shields.io/badge/13%2B%20Recognitions-F59E0B?style=for-the-badge&logoColor=white)
-![5+ Industries](https://img.shields.io/badge/5%2B%20Industries%20Served-22C55E?style=for-the-badge&logoColor=white)
-![15+ Projects](https://img.shields.io/badge/15%2B%20Projects%20Delivered-8B5CF6?style=for-the-badge&logoColor=white)
-
-<img src="https://komarev.com/ghpvc/?username=Indranil-Seal&label=Profile+Views&color=3B82F6&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/●%20Open%20to%20Collaborate-22C55E?style=flat-square&logoColor=white"/>
-
-</div>
+<!-- Typing SVG Animated Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=700&height=60&lines=~8+Years+in+Data+Science+%26+Machine+Learning;Healthcare+%7C+Pharma+%7C+FMCG+%7C+Retail+%7C+Manufacturing;Inference+%7C+Experimentation+%7C+Predictive+Modelling;Turning+Data+into+Business+Impact" alt="Typing SVG Tagline"/>
+</p>
 
 ---
 
-<!-- ══════════════════════════════════ PROFESSIONAL PROFILE ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=50&text=PROFESSIONAL%20PROFILE&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Professional Profile"/>
-</div>
-
-<br/>
+## 👤 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td valign="top" width="60%">
 
-Senior Data Scientist with **8+ years** of proven expertise in statistical modelling, machine learning, and translating complex data into measurable business outcomes. Demonstrated leadership at **Eli Lilly & Company**, **Novartis**, and **ITC Infotech** — architecting enterprise-grade analytical frameworks across Healthcare, Pharmaceutical, FMCG, Retail, and Manufacturing sectors.
+Senior Data Scientist with **~8 years** of hands-on experience in statistical inference, machine learning, and delivering data-driven insights across complex business problems. Currently working with **Eli Lilly & Company**, driving commercial analytics across global pharmaceutical brands.
 
-Core expertise spans **Commercial Experimentation**, **Predictive & Prescriptive Modelling**, **Market Mix Modelling**, and end-to-end **ML Pipeline Engineering** — consistently bridging analytical rigour with strategic business intelligence to drive ROI and accelerate decision-making at scale.
+- 📍 **Location**: Bangalore, India
+- 🏢 **Current Role**: Senior Data Scientist @ Eli Lilly & Company
+- 🏭 **Industries**: Healthcare, Pharma, Tobacco, FMCG, Retail, Manufacturing
+- 🎯 **Focus Areas**: Commercial Experimentation, Predictive Modelling, Market Analytics, Data Science, Business Analytics, AI, LLMs, Generative AI
 
 </td>
-<td width="35%" valign="top" align="center">
+<td valign="top" width="40%" align="center">
 
-📍 &nbsp;**Bangalore, India**<br/>
-🏢 &nbsp;**Eli Lilly & Company**<br/>
-💼 &nbsp;**Senior Data Scientist**<br/>
-🎓 &nbsp;**M.Sc. in Statistics**<br/>
-📧 &nbsp;[indranil.seal09@gmail.com](mailto:indranil.seal09@gmail.com)<br/>
-🔗 &nbsp;[LinkedIn](https://www.linkedin.com/in/indranil-seal-913747b7) &nbsp;|&nbsp; [GitHub](https://github.com/Indranil-Seal)
+**Industry Expertise**
 
-<br/>
-
-![Healthcare](https://img.shields.io/badge/Healthcare-0EA5E9?style=flat-square&logoColor=white)
-![Pharma](https://img.shields.io/badge/Pharma-10B981?style=flat-square&logoColor=white)
-![FMCG](https://img.shields.io/badge/FMCG-F59E0B?style=flat-square&logoColor=white)
-![Retail](https://img.shields.io/badge/Retail-EF4444?style=flat-square&logoColor=white)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-6B7280?style=flat-square&logoColor=white)
-![Tobacco](https://img.shields.io/badge/Tobacco-8B5CF6?style=flat-square&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-0077B6?style=for-the-badge&logoColor=white)
+![Pharma](https://img.shields.io/badge/Pharma-2ecc71?style=for-the-badge&logoColor=white)
+![FMCG](https://img.shields.io/badge/FMCG-f39c12?style=for-the-badge&logoColor=white)
+![Retail](https://img.shields.io/badge/Retail-e74c3c?style=for-the-badge&logoColor=white)
+![Manufacturing](https://img.shields.io/badge/Manufacturing-7f8c8d?style=for-the-badge&logoColor=white)
+![Tobacco](https://img.shields.io/badge/Tobacco-8e44ad?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
@@ -70,114 +46,46 @@ Core expertise spans **Commercial Experimentation**, **Predictive & Prescriptive
 
 ---
 
-<!-- ════════════════════════════════════ AREAS OF EXPERTISE ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=065F46&height=50&text=AREAS%20OF%20EXPERTISE&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Areas of Expertise"/>
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%" valign="top">
-
-<h4>🔬 Experimentation</h4>
-
-Design of Experiments<br/>
-Commercial A/B Testing<br/>
-Power Analysis & Lift<br/>
-Multichannel Analytics<br/>
-Impact Assessment<br/>
-Agile Experiment Tracking
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<h4>📈 Predictive Analytics</h4>
-
-Classification & Regression<br/>
-Propensity Modelling<br/>
-Demand Forecasting<br/>
-Patient Journey Analytics<br/>
-Drug Pricing Strategy<br/>
-Market Share Estimation
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<h4>🤖 Advanced ML</h4>
-
-Ensemble Methods<br/>
-Clustering & Segmentation<br/>
-Anomaly Detection<br/>
-Synthetic Imputation<br/>
-Bootstrap Methods<br/>
-Network Analysis
-
-</td>
-<td align="center" width="25%" valign="top">
-
-<h4>💡 AI & Business Intelligence</h4>
-
-Market Mix Modelling<br/>
-ROI & m-ROI Analysis<br/>
-Generative AI<br/>
-Large Language Models<br/>
-Data-Driven Strategy<br/>
-Stakeholder Dashboards<br/>
-Executive Reporting
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ════════════════════════════════ TECHNICAL PROFICIENCY ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6B21A8&height=50&text=TECHNICAL%20PROFICIENCY&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Technical Proficiency"/>
-</div>
-
-<br/>
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**── Languages & Development Environments ──**
+**Languages & Environments**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-**── Machine Learning Algorithms ──**
+**ML & Analytics**
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2563EB?style=for-the-badge&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-16A34A?style=for-the-badge&logoColor=white)
-![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-D97706?style=for-the-badge&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4F46E5?style=for-the-badge&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-7C3AED?style=for-the-badge&logoColor=white)
-![Decision Tree](https://img.shields.io/badge/Decision%20Tree-0891B2?style=for-the-badge&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-DC2626?style=for-the-badge&logoColor=white)
-![KNN](https://img.shields.io/badge/KNN-0D9488?style=for-the-badge&logoColor=white)
-![K-Means](https://img.shields.io/badge/K--Means-E11D48?style=for-the-badge&logoColor=white)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-9333EA?style=for-the-badge&logoColor=white)
-![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-059669?style=for-the-badge&logoColor=white)
-![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-B45309?style=for-the-badge&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-DB2777?style=for-the-badge&logoColor=white)
-![PCA](https://img.shields.io/badge/PCA-0284C7?style=for-the-badge&logoColor=white)
-![GAM](https://img.shields.io/badge/GAM-10B981?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white)
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-FF8C00?style=for-the-badge&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-4169E1?style=for-the-badge&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-6A0DAD?style=for-the-badge&logoColor=white)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-2E8B57?style=for-the-badge&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-B22222?style=for-the-badge&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-008080?style=for-the-badge&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-DC143C?style=for-the-badge&logoColor=white)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-4B0082?style=for-the-badge&logoColor=white)
+![Isolation Forest](https://img.shields.io/badge/Isolation%20Forest-556B2F?style=for-the-badge&logoColor=white)
+![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-8B4513?style=for-the-badge&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF1493?style=for-the-badge&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-1C86EE?style=for-the-badge&logoColor=white)
+![GAM](https://img.shields.io/badge/GAM-20B2AA?style=for-the-badge&logoColor=white)
 
-**── Data Infrastructure & MLOps ──**
+**Data & MLOps**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**── Project Delivery ──**
+**Project & Collaboration**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
@@ -187,44 +95,35 @@ Executive Reporting
 
 ---
 
-<!-- ════════════════════════════ ANALYTICAL COMPETENCIES ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=92400E&height=50&text=ANALYTICAL%20COMPETENCIES&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Analytical Competencies"/>
-</div>
-
-<br/>
+## 📊 Analytical Skill Set
 
 <div align="center">
 
-![Classification](https://img.shields.io/badge/Classification-3B82F6?style=flat-square&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-14B8A6?style=flat-square&logoColor=white)
-![Segmentation](https://img.shields.io/badge/Segmentation-8B5CF6?style=flat-square&logoColor=white)
-![Bagging](https://img.shields.io/badge/Bagging-22C55E?style=flat-square&logoColor=white)
-![Boosting](https://img.shields.io/badge/Boosting-F59E0B?style=flat-square&logoColor=white)
-![GAM](https://img.shields.io/badge/GAM-EC4899?style=flat-square&logoColor=white)
-![Propensity Modelling](https://img.shields.io/badge/Propensity%20Modelling-3B82F6?style=flat-square&logoColor=white)
-![Demand Analysis](https://img.shields.io/badge/Demand%20Analysis-14B8A6?style=flat-square&logoColor=white)
-![Geodesic Clustering](https://img.shields.io/badge/Geodesic%20Clustering-8B5CF6?style=flat-square&logoColor=white)
-![Pricing Analytics](https://img.shields.io/badge/Pricing%20Analytics-22C55E?style=flat-square&logoColor=white)
-![Retail Analysis](https://img.shields.io/badge/Retail%20Analysis-F59E0B?style=flat-square&logoColor=white)
-![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-EC4899?style=flat-square&logoColor=white)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-3B82F6?style=flat-square&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data%20Mining-14B8A6?style=flat-square&logoColor=white)
-![Market Mix Modelling](https://img.shields.io/badge/Market%20Mix%20Modelling-8B5CF6?style=flat-square&logoColor=white)
-![Design of Experiments](https://img.shields.io/badge/Design%20of%20Experiments-22C55E?style=flat-square&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-e94560?style=flat-square&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-e94560?style=flat-square&logoColor=white)
+![Segmentation](https://img.shields.io/badge/Segmentation-0f3460?style=flat-square&logoColor=white)
+![Bagging](https://img.shields.io/badge/Bagging-0f3460?style=flat-square&logoColor=white)
+![Boosting](https://img.shields.io/badge/Boosting-0f3460?style=flat-square&logoColor=white)
+![GAM](https://img.shields.io/badge/GAM-16213e?style=flat-square&logoColor=white)
+![Propensity Modelling](https://img.shields.io/badge/Propensity%20Modelling-16213e?style=flat-square&logoColor=white)
+![Demand Analysis](https://img.shields.io/badge/Demand%20Analysis-1a1a2e?style=flat-square&logoColor=white)
+![Geodesic Clustering](https://img.shields.io/badge/Geodesic%20Clustering-1a1a2e?style=flat-square&logoColor=white)
+![Pricing Analytics](https://img.shields.io/badge/Pricing%20Analytics-e94560?style=flat-square&logoColor=white)
+![Retail Analysis](https://img.shields.io/badge/Retail%20Analysis-0f3460?style=flat-square&logoColor=white)
+![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-0f3460?style=flat-square&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-16213e?style=flat-square&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-1a1a2e?style=flat-square&logoColor=white)
+![Market Mix Modelling](https://img.shields.io/badge/Market%20Mix%20Modelling-e94560?style=flat-square&logoColor=white)
+![Design of Experiments](https://img.shields.io/badge/Design%20of%20Experiments-0f3460?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════ CAREER TIMELINE ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=14532D&height=50&text=CAREER%20TIMELINE&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Career Timeline"/>
-</div>
+## 💼 Professional Experience
 
-<br/>
-
-`JUL 2023 – PRESENT` &nbsp; 🏥 &nbsp;**Senior Data Scientist** &nbsp;|&nbsp; [**Eli Lilly & Company**](https://www.lilly.com) &nbsp;|&nbsp; Bangalore, India *(Hybrid)*
+### 🏥 Eli Lilly & Company — Senior Data Scientist
+**Jul 2023 – Present | Bangalore, India (Hybrid)**
 
 - **DOE Product**: Built a modular, reusable Design of Experiment pipeline — reduced project delivery time by **60%** and significantly increased scalability across brands and channels
 - **Commercial Experimentation**: Designed and analysed experiments for **Zepbound, Mounjaro, Emgaity, Ebglyss, Trulicity** — quantifying Share of Market (SOM) lift and Engagement Rate across HCP channels
@@ -235,7 +134,8 @@ Executive Reporting
 
 ---
 
-`JUL 2021 – JUL 2023` &nbsp; 💊 &nbsp;**Data Scientist / Senior Data Scientist** &nbsp;|&nbsp; [**Novartis**](https://www.novartis.com) &nbsp;|&nbsp; Hyderabad, India
+### 💊 Novartis — Data Scientist / Senior Data Scientist
+**Jul 2021 – Jul 2023 | Hyderabad, India**
 
 - **Drug Pricing**: Biosimilar and Generic drug pricing strategy using **XGBoost** for competitive European market tender positioning — reducing overbidding and maximising win rates
 - **Demand Analysis**: Tender demand segmentation using **DBSCAN** and **k-Prototype** clustering on IHS data across dosage and pharmaceutical levels
@@ -243,7 +143,8 @@ Executive Reporting
 
 ---
 
-`AUG 2018 – JUL 2021` &nbsp; 🏭 &nbsp;**Associate Data Scientist** &nbsp;|&nbsp; [**ITC Infotech**](https://www.itcinfotech.com) &nbsp;|&nbsp; Bangalore, India *(On-site)*
+### 🏭 ITC Infotech — Associate Data Scientist
+**Aug 2018 – Jul 2021 | Bangalore, India (On-site)**
 
 - **Consumer Insights**: Churn propensity modelling (**Random Forest**), customer segmentation (**K-Means**), and persona analysis from market research data
 - **Anomaly Detection**: Manufacturing process anomaly detection in real-time plant operations using **Z-Score, K-Means,** and **Isolation Forest**
@@ -251,102 +152,78 @@ Executive Reporting
 
 ---
 
-<!-- ════════════════════════════════════ AWARDS & RECOGNITION ══ -->
+## 📈 GitHub Stats
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7F1D1D&height=50&text=AWARDS%20%26%20RECOGNITION&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Awards and Recognition"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&border_radius=10" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&border_radius=10" alt="Top Languages" height="180"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Indranil-Seal&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&border_radius=10" alt="GitHub Streak Stats"/>
+</div>
 
-| Award | Organisation | Year |
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
 |:---|:---|:---|
-| 🚀 Inspire: Deliver *(×5)* | Eli Lilly & Company | 2024 |
-| 💡 Inspire: Innovate | Eli Lilly & Company | 2024 |
-| 🤝 Inspire: Include | Eli Lilly & Company | 2024 |
-| ⭐ Star Award | Novartis | 2022 |
-| 🌟 Galaxy Team Award — Q3 | Novartis | 2022 |
-| 🌟 Galaxy Team Award — Q4 | Novartis | 2021 |
-| 👏 Pat on the Back | ITC Infotech | 2021 |
-| 🏅 Moment of Truth Award & Recognition | ITC Infotech | 2019 |
+| M.Sc. in Statistics | University of Kalyani, West Bengal | 2016 – 2018 |
+| B.Sc. (Hons.) in Statistics | Bidhannagar Govt. College, West Bengal | 2013 – 2016 |
 
 ---
 
-<!-- ════════════════════════════════════ ACADEMIC CREDENTIALS ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0C4A6E&height=50&text=ACADEMIC%20CREDENTIALS&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Academic Credentials"/>
-</div>
+## 🏆 Awards & Recognition
 
-<br/>
+### 🏥 Eli Lilly & Company
 
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
+| Award | Issued By | Year |
+|:---|:---|:---|
+| 🚀 Inspire: Deliver | Suresh Subbarao, Associate Director – Data Science & AI | Dec 2024 |
+| 🚀 Inspire: Deliver | Srinivasa Agarwal, Director – Data Science & AI | Dec 2024 |
+| 🚀 Inspire: Deliver | Zac Turner Cuesta, Senior Principal Data Scientist – Data Science & AI | Dec 2024 |
+| 💡 Inspire: Innovate | Stephanie T. Chen, Senior Director – L2P Advisory, Data Science & AI | Feb 2024 |
+| 🤝 Inspire: Include | Shraddha Rawat, Principal – Machine Learning Program (MLOps) | Dec 2024 |
+| 🚀 Inspire: Deliver | Sumit Mukherjee, Senior Principal – Machine Learning Program (MLOps) | Aug 2024 |
+| 🚀 Inspire: Deliver | Ashwin, Machine Learning Scientist – AI Science & MLOps | Dec 2024 |
 
-🎓 &nbsp;**M.Sc. in Statistics**<br/>
-University of Kalyani, West Bengal<br/>
-*2016 – 2018*
+### 💊 Novartis
 
-</td>
-<td align="center" width="50%" valign="top">
+| Award | Issued By | Year |
+|:---|:---|:---|
+| ⭐ Star Award | Susan Cassidy, Director – Strategic Initiatives | Nov 2022 |
+| 🌟 Galaxy Team Award — Q3 | Arijit Ghosh, Group Head – MES | Aug 2022 |
+| 🌟 Galaxy Team Award — Q4 | Arijit Ghosh, Group Head – MES | Dec 2021 |
 
-🎓 &nbsp;**B.Sc. (Hons.) in Statistics**<br/>
-Bidhannagar Govt. College, West Bengal<br/>
-*2013 – 2016*
+### 🏭 ITC Infotech
 
-</td>
-</tr>
-</table>
-
----
-
-<!-- ══════════════════════════════════════════ GITHUB ACTIVITY ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=312E81&height=50&text=GITHUB%20ACTIVITY&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="GitHub Activity"/>
-</div>
-
-<br/>
-
-<!-- GitHub stats: dark mode gets dark card, light mode gets light card -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&icon_color=7C3AED&text_color=1F2937&border_radius=6" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=6"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&text_color=1F2937&border_radius=6" alt="Top Languages"/>
-</picture>
-</div>
+| Award | Issued By | Year |
+|:---|:---|:---|
+| 👏 Pat on the Back | Suchismita Burman, CHRO | Jul 2021 |
+| 🏅 Moment of Truth Award & Recognition | Sudip Singh, MD & CEO | Jul 2019 |
 
 ---
 
-<!-- ══════════════════════════════════════════════ GET IN TOUCH ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=134E4A&height=50&text=GET%20IN%20TOUCH&fontSize=18&fontColor=FFFFFF&fontAlignY=55" alt="Get In Touch"/>
-</div>
-
-<br/>
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Indranil%20Seal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indranil-seal-913747b7)
-[![GitHub](https://img.shields.io/badge/GitHub-Indranil--Seal-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Indranil-Seal)
-[![Email](https://img.shields.io/badge/Email-indranil.seal09-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indranil.seal09@gmail.com)
-[![Location](https://img.shields.io/badge/Bangalore-India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bangalore,India)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Indranil%20Seal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indranil-seal-913747b7)
+[![GitHub](https://img.shields.io/badge/GitHub-Indranil--Seal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Indranil-Seal)
+[![Email](https://img.shields.io/badge/Email-indranil.seal09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indranil.seal09@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bangalore,India)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════ FOOTER ══ -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1B3A6B,100:0D1B2A&height=70&text=%C2%A9%20Indranil%20Seal%20%E2%80%A2%20Senior%20Data%20Scientist%20%E2%80%A2%20Bangalore%2C%20India&fontSize=14&fontColor=D4AF37&fontAlignY=55"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:DBEAFE,100:EEF2FF&height=70&text=%C2%A9%20Indranil%20Seal%20%E2%80%A2%20Senior%20Data%20Scientist%20%E2%80%A2%20Bangalore%2C%20India&fontSize=14&fontColor=1E3A5F&fontAlignY=55" alt="Footer"/>
-</picture>
-</div>
+<!-- Capsule Render Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" alt="Footer Banner"/>
+</p>
 
-<div align="center">
+<p align="center">
   <em>"Data is the new oil — I refine it into decisions."</em>
-</div>
+</p>
