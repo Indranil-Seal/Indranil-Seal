@@ -258,32 +258,16 @@ Executive Reporting
 
 <br/>
 
-### 🏥 Eli Lilly & Company &nbsp;—&nbsp; *7 Recognitions*
-
-| Award | Issued By | Period |
+| Award | Organisation | Year |
 |:---|:---|:---|
-| 🚀 Inspire: Deliver | Suresh Subbarao, Associate Director – Data Science & AI | Dec 2024 |
-| 🚀 Inspire: Deliver | Srinivasa Agarwal, Director – Data Science & AI | Dec 2024 |
-| 🚀 Inspire: Deliver | Zac Turner Cuesta, Senior Principal Data Scientist – Data Science & AI | Dec 2024 |
-| 💡 Inspire: Innovate | Stephanie T. Chen, Senior Director – L2P Advisory, Data Science & AI | Feb 2024 |
-| 🤝 Inspire: Include | Shraddha Rawat, Principal – Machine Learning Program (MLOps) | Dec 2024 |
-| 🚀 Inspire: Deliver | Sumit Mukherjee, Senior Principal – Machine Learning Program (MLOps) | Aug 2024 |
-| 🚀 Inspire: Deliver | Ashwin, Machine Learning Scientist – AI Science & MLOps | Dec 2024 |
-
-### 💊 Novartis &nbsp;—&nbsp; *3 Recognitions*
-
-| Award | Issued By | Period |
-|:---|:---|:---|
-| ⭐ Star Award | Susan Cassidy, Director – Strategic Initiatives | Nov 2022 |
-| 🌟 Galaxy Team Award — Q3 | Arijit Ghosh, Group Head – MES | Aug 2022 |
-| 🌟 Galaxy Team Award — Q4 | Arijit Ghosh, Group Head – MES | Dec 2021 |
-
-### 🏭 ITC Infotech &nbsp;—&nbsp; *2 Recognitions*
-
-| Award | Issued By | Period |
-|:---|:---|:---|
-| 👏 Pat on the Back | Suchismita Burman, CHRO | Jul 2021 |
-| 🏅 Moment of Truth Award & Recognition | Sudip Singh, MD & CEO | Jul 2019 |
+| 🚀 Inspire: Deliver *(×5)* | Eli Lilly & Company | 2024 |
+| 💡 Inspire: Innovate | Eli Lilly & Company | 2024 |
+| 🤝 Inspire: Include | Eli Lilly & Company | 2024 |
+| ⭐ Star Award | Novartis | 2022 |
+| 🌟 Galaxy Team Award — Q3 | Novartis | 2022 |
+| 🌟 Galaxy Team Award — Q4 | Novartis | 2021 |
+| 👏 Pat on the Back | ITC Infotech | 2021 |
+| 🏅 Moment of Truth Award & Recognition | ITC Infotech | 2019 |
 
 ---
 
