@@ -1,10 +1,14 @@
 <!-- ══════════════════════════════════════════════════ HERO ══ -->
+<!-- GitHub <picture> serves different banner for dark vs light mode -->
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1B3A6B&height=200&text=INDRANIL%20SEAL&fontSize=56&fontColor=FFFFFF&fontAlignY=47&desc=Senior%20Data%20Scientist%20%7C%20M.Sc.%20in%20Statistics%20%7C%20Bangalore%2C%20India&descAlignY=73&descColor=D4AF37&descSize=17"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EEF2FF,100:DBEAFE&height=200&text=INDRANIL%20SEAL&fontSize=56&fontColor=1E3A5F&fontAlignY=47&desc=Senior%20Data%20Scientist%20%7C%20M.Sc.%20in%20Statistics%20%7C%20Bangalore%2C%20India&descAlignY=73&descColor=B45309&descSize=17" alt="Hero Banner"/>
+</picture>
 </div>
 
 <div align="center"><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=17&pause=3000&color=1E3A5F&center=true&vCenter=true&width=820&height=32&lines=Delivering+Enterprise-Grade+Data+Science+%26+Machine+Learning+Solutions;8%2B+Years+%7C+Healthcare+%7C+Pharma+%7C+FMCG+%7C+Retail+%7C+Manufacturing;Commercial+Experimentation+%7C+Predictive+Modelling+%7C+Market+Analytics" alt="Tagline"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=17&pause=3000&color=3B82F6&center=true&vCenter=true&width=820&height=32&lines=Delivering+Enterprise-Grade+Data+Science+%26+Machine+Learning+Solutions;8%2B+Years+%7C+Healthcare+%7C+Pharma+%7C+FMCG+%7C+Retail+%7C+Manufacturing;Commercial+Experimentation+%7C+Predictive+Modelling+%7C+Market+Analytics" alt="Tagline"/>
 </div>
 
 <br/>
@@ -113,13 +117,14 @@ Network Analysis
 </td>
 <td align="center" width="25%" valign="top">
 
-<h4>💡 Business Intelligence</h4>
+<h4>💡 AI & Business Intelligence</h4>
 
 Market Mix Modelling<br/>
 ROI & m-ROI Analysis<br/>
-Stakeholder Dashboards<br/>
+Generative AI<br/>
+Large Language Models<br/>
 Data-Driven Strategy<br/>
-Generative AI & LLMs<br/>
+Stakeholder Dashboards<br/>
 Executive Reporting
 
 </td>
@@ -317,10 +322,17 @@ Bidhannagar Govt. College, West Bengal<br/>
 
 <br/>
 
+<!-- GitHub stats: dark mode gets dark card, light mode gets light card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&icon_color=7C3AED&text_color=000000&border_radius=6" alt="GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&text_color=000000&border_radius=6" alt="Top Languages" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Indranil-Seal&show_icons=true&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&icon_color=7C3AED&text_color=1F2937&border_radius=6" alt="GitHub Stats"/>
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=6"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indranil-Seal&layout=compact&hide_border=true&bg_color=EEF2FF&title_color=1E40AF&text_color=1F2937&border_radius=6" alt="Top Languages"/>
+</picture>
 </div>
 
 ---
@@ -345,7 +357,10 @@ Bidhannagar Govt. College, West Bengal<br/>
 
 <!-- ══════════════════════════════════════════════════ FOOTER ══ -->
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1B3A6B,100:0D1B2A&height=70&text=%C2%A9%20Indranil%20Seal%20%E2%80%A2%20Senior%20Data%20Scientist%20%E2%80%A2%20Bangalore%2C%20India&fontSize=14&fontColor=D4AF37&fontAlignY=55"/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:DBEAFE,100:EEF2FF&height=70&text=%C2%A9%20Indranil%20Seal%20%E2%80%A2%20Senior%20Data%20Scientist%20%E2%80%A2%20Bangalore%2C%20India&fontSize=14&fontColor=1E3A5F&fontAlignY=55" alt="Footer"/>
+</picture>
 </div>
 
 <div align="center">
